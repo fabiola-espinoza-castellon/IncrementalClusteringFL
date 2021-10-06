@@ -15,9 +15,11 @@ This section lists any major frameworks/libraries used in the code.
 # Before usage
 Note that you should have a folder 'Results' containing subfolders 'labelSwap', 'imageRot' and 'emnist'. Results according to simulation cases will be stored in the corresponding folders.
 Additionally, the data was dowloaded from [here](https://www.nist.gov/itl/products-and-services/emnist-dataset)[1] in matlab format. You should store the .mat files in a folder 'Data' parallel to folder 'Code'. The structure should be as follows :
+```
 IncrementalClusteringFL
                       |-- Code
                       |-- Data
+```
 
 [1] Cohen, G., Afshar, S., Tapson, J., & van Schaik, A. (2017). EMNIST: an extension of MNIST to handwritten letters.
 
