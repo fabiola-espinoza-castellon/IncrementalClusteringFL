@@ -1,7 +1,7 @@
 # INCREMENTAL CLUSTERING FOR FEDERATED LEARNING ON NON-IID DATA
 Code implementing article accepted at IJCNN 2022 Conference: 
 
-Espinoza Castellon et al., Federated learning with incremental clustering for heterogeneous data [2022](https://ieeexplore.ieee.org/abstract/document/9892653)).
+Espinoza Castellon et al., Federated learning with incremental clustering for heterogeneous data [2022](https://ieeexplore.ieee.org/abstract/document/9892653).
 
 # Built with
 This section lists any major frameworks/libraries used in the code.
